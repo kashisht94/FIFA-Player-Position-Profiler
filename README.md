@@ -33,25 +33,25 @@ LW- Left Wing
 RW- Right Wing 
 
 The relevant Player attributes based on positions:
- Striker/Forward (ST, CF, LW, RW):
+ **Striker/Forward (ST, CF, LW, RW)**:
    - Shooting (SHO)
    - Finishing
    - Positioning
    - Heading Accuracy
    - PAC
- Midfielder (CAM, CM, CDM):
+ **Midfielder (CAM, CM, CDM)**:
    - Passing(PAS)
    - Dribbling(DRI)
    - Vision
    - Work Rate
    - Stamina
- Defender (LB, RB, CB):
+ **Defender (LB, RB, CB)**:
    - Defending
    - Tackling(Sliding Tackle/Standing Tackle)
    - Marking
    - Heading
    - Strength
- Goalkeeper (GK):
+ **Goalkeeper (GK)**:
    - Goalkeeping
    - GK Handling
    - GK Reflexes
