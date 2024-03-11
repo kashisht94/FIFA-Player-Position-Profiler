@@ -1,5 +1,5 @@
 # FIFA-Player-Position-Profiler
-Project Goal: Predicting the most suitable position for a player on the field based on their attributes and playing style.
+Project Goal: Predicting the most suitable position for a player on the field based on their attributes and playing style using FIFA 21 dataset consisting of 180K records.
 
 **Dataset Information**
 
