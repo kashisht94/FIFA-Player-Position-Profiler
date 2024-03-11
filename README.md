@@ -5,8 +5,7 @@ Project Goal: Predicting the most suitable position for a player on the field ba
 
 Important FIFA Abbreviation:
 
-Outfield Player Attributes on FIFA
-Attribute	Meaning
+**Outfield Player Attributes on FIFA**
 PAC- Pace - Top running speed.
 SHO- Shooting
 PAS- Passing
@@ -14,8 +13,7 @@ DRI- Dribbling
 DEF- Defending
 PHY- Physicality
 
-Goalkeeper Attributes on FIFA
-Attribute	Meaning
+**Goalkeeper Attributes on FIFA**
 DIV- Diving
 HAN- Handling
 KIC- Kicking
@@ -23,8 +21,7 @@ REF- Reflexes
 SPE- Speed
 POS- Positioning
 
-FIFA Position Abbreviations
-Abbreviation	Position
+**FIFA Position Abbreviations**
 ST- Striker
 CF- Centre Forward
 LF- Left Forward
